@@ -1,3 +1,3 @@
 # C
-This is my C++ repository of first college year.
-All this codes is open source and free to use anda modify.
+Repositório de exercícios em C++ realizados a grade da minha faculdade.
+Os documentos contidos aqui são de código aberto para todos.
